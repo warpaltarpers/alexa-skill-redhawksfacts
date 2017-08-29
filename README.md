@@ -17,3 +17,7 @@ I wanted to try an easy skill for Alexa, and I knew fact skills came with a lot 
 ## Authors
 
 * **Maxwell Walters** - [warpaltarpers](https://github.com/warpaltarpers)
+
+### Contributors
+
+* **Alex Oladele** - [dragid10](https://github.com/dragid10)
