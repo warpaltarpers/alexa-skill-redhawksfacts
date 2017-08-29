@@ -21,3 +21,7 @@ I wanted to try an easy skill for Alexa, and I knew fact skills came with a lot 
 ### Contributors
 
 * **Alex Oladele** - [dragid10](https://github.com/dragid10)
+
+## License
+
+RedHawks Facts is licensed under the MIT License
