@@ -2,6 +2,10 @@
 
 A skill for Amazon's personal assistant Alexa that will tell you facts about Miami University (Oxford, OH).
 
+## Contributing
+
+Please read CONTRIBUTING.md for the code of conduct, and the process for submitting pull requests.
+
 ## Versioning
 
 I use [SemVer](http://semver.org/) for versioning.
