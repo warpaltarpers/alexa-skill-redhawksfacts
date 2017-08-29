@@ -4,7 +4,7 @@ A skill for Amazon's personal assistant Alexa that will tell you facts about Mia
 
 ## Contributing
 
-Please read CONTRIBUTING.md for the code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/warpaltarpers/alexa-skill-redhawksfacts/blob/master/CONTRIBUTING.md) for the code of conduct, and the process for submitting pull requests.
 
 ## Versioning
 
