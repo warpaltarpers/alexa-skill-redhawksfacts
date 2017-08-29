@@ -26,7 +26,7 @@ var data = [
     "Miamians have won more Super Bowl rings than we have digits.",
     "Four national fraternities were founded on Miami's campus; Beta Theta Pi, Phi Delta Theta, Sigma Chi, and Phi Kappa Tau, as well as the Delta Zeta sorority.",
     "Rub the turtle's heads on the sundial for good luck on your next exams.",
-    "Slant Walk is 1,014 steps from Spring Street to the Phi Delt Gates.",
+    "Slant Walk is 1,014 steps from Spring Street to the Phi Delta Gates.",
     "The Miami University motto, Prodesse Quam Conspici, means To Achieve without Being Conspicuous.",
     "There are 16 cupolas on campus.",
     "Miami proudly carries the name of the Miami Tribe of Oklahoma, and has maintained a strong, mutually beneficial relationship since 1972.",
@@ -52,7 +52,7 @@ var data = [
     "Ryan Graves, the Head of Global Operations at Uber, graduated from Miami University.",
     "Tom Fox, the CEO of Aston Villa football club in England, graduated from Miami University.",
     "Samuel Laws, inventor of the stock ticker on the New York Gold Exchange, graduated from Miami University.",
-    "Ben Roethlisberger, two timw Super Bowl winning quarterback for the Pittsburgh Steelers, graduated from Miami University.",  
+    "Ben Roethlisberger, two time Super Bowl winning quarterback for the Pittsburgh Steelers, graduated from Miami University.",  
 ];
 
 //=========================================================================================================================================
