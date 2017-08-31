@@ -12,6 +12,7 @@ I use [SemVer](http://semver.org/) for versioning.
 
 ## Motivation
 
+Submitted for the August 2017 Amazon Developer Skill Student Promotion
 I wanted to try an easy skill for Alexa, and I knew fact skills came with a lot of tutorials to help walk me through the process.
 
 ## Authors
