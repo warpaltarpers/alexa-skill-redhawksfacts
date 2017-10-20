@@ -53,6 +53,8 @@ var data = [
     "Tom Fox, the CEO of Aston Villa football club in England, graduated from Miami University.",
     "Samuel Laws, inventor of the stock ticker on the New York Gold Exchange, graduated from Miami University.",
     "Ben Roethlisberger, two time Super Bowl winning quarterback for the Pittsburgh Steelers, graduated from Miami University.",
+    "Oxford, Ohio is the first Oxford in North America.",
+    
 ];
 
 //=========================================================================================================================================
