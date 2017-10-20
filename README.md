@@ -8,7 +8,7 @@ I use [SemVer](http://semver.org/) for versioning.
 
 ## Motivation
 
-I wanted to try an easy skill for Alexa, and I knew fact skills came with a lot of tutorials to help walk me through the process.
+I wanted to try an easy skill for Alexa. I also knew that fact skills came with a lot of tutorials to help walk me through the process.
 
 ## Authors
 
