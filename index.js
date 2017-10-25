@@ -5,7 +5,7 @@ var Alexa = require('alexa-sdk');
 //TODO: The items below this comment need your attention.
 //=========================================================================================================================================
 
-//Replace with your app ID (OPTIONAL).  You can find this value at the top of your skill's page on http://developer.amazon.com.  
+//Replace with your app ID (OPTIONAL).  You can find this value at the top of your skill's page on http://developer.amazon.com.
 //Make sure to enclose your value in quotes, like this: var APP_ID = "amzn1.ask.skill.bb4045e6-b3e8-4133-b650-72923c5980f1";
 var APP_ID = undefined;
 
@@ -23,7 +23,7 @@ var data = [
     "Don't walk on the seal in Academic Quad or in Armstrong. You're supposed to walk around the right side.",
     "Legend says that if you step on the seal, you'll fail your next exam.",
     "Miami has graduated 21 national coaches of the year at the professional and collegiate levels.",
-    "Miamians have won more Super Bowl rings than we have digits.",
+    "Miamians have won more Super Bowl rings than they have digits.",
     "Four national fraternities were founded on Miami's campus; Beta Theta Pi, Phi Delta Theta, Sigma Chi, and Phi Kappa Tau, as well as the Delta Zeta sorority.",
     "Rub the turtle's heads on the sundial for good luck on your next exams.",
     "Slant Walk is 1,014 steps from Spring Street to the Phi Delta Gates.",
@@ -52,11 +52,13 @@ var data = [
     "Ryan Graves, the Head of Global Operations at Uber, graduated from Miami University.",
     "Tom Fox, the CEO of Aston Villa football club in England, graduated from Miami University.",
     "Samuel Laws, inventor of the stock ticker on the New York Gold Exchange, graduated from Miami University.",
-    "Ben Roethlisberger, two time Super Bowl winning quarterback for the Pittsburgh Steelers, graduated from Miami University.",  
+    "Ben Roethlisberger, two time Super Bowl winning quarterback for the Pittsburgh Steelers, graduated from Miami University.",
+    "Oxford, Ohio is the first Oxford in North America.",
+    
 ];
 
 //=========================================================================================================================================
-//Editing anything below this line might break your skill.  
+//Editing anything below this line might break your skill.
 //=========================================================================================================================================
 exports.handler = function(event, context, callback) {
     var alexa = Alexa.handler(event, context);
