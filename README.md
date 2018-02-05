@@ -1,5 +1,5 @@
 # RedHawks Facts  
-[![GitHub version](https://badge.fury.io/gh/warpaltarpers%2Falexa-skill-redhawksfacts.svg)](https://badge.fury.io/gh/warpaltarpers%2Falexa-skill-redhawksfacts)  
+[![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)](http://forthebadge.com) [![GitHub version](https://badge.fury.io/gh/warpaltarpers%2Falexa-skill-redhawksfacts.svg)](https://badge.fury.io/gh/warpaltarpers%2Falexa-skill-redhawksfacts)  
 
 A skill for Amazon's personal assistant Alexa that will tell you facts about Miami University (Oxford, OH).
 
